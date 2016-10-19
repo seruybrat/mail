@@ -1,0 +1,79 @@
+{
+  "banner_img": "http://essay-storage.com/images/back_to_school_2016/ttl_de.png",
+  "banner_img_code": "http://essay-storage.com/images/back_to_school_2016/discount_de.png",
+  "email_link": "http://www.*[subscriber_attribute_host]*/order?dsc_code=schule20&utm_source=expertsender&utm_medium=email&utm_campaign=pr_schule20_promode",
+  "banner_bg": "http://essay-storage.com/images/back_to_school_2016/bng.png",
+  "banner_bg_window": "http://essay-storage.com/images/back_to_school_2016/banner_not_counter.png",
+
+  "button_text_top" : "Rabatt bekommen",
+  "button_text_bottom" : "20% Rabatt bekommen",
+
+  "under_text2" : "",
+
+  "button_fill_color" : "#ea654c",
+  "body_bg_color" : "#f7f8fa",
+
+  "linkColor" : "#313131",
+
+  "promo_title" : "Code",
+  "promo_code" : "schule20",
+  "promo_percent" : "20%",
+
+
+
+  "button_text_item" : "Go for 20% off",
+
+  "arrow": "#fdf8e8",
+  "arrow_bg": "http://essay-storage.com/images/4th_July_reminder_2016/arrows.png",
+  "top_choice": "http://essay-storage.com/images/e-commerce-ab-2016/top_choice.png",
+  "best_seller": "http://essay-storage.com/images/e-commerce-ab-2016/best_saller.png",
+  "best_price": "http://essay-storage.com/images/e-commerce-ab-2016/best_price.png",
+
+  "item1_link": "http://www.*[subscriber_attribute_host]*/order?dsc_code=dissertation20&utm_source=expertsender&utm_medium=email&utm_campaign=grandsale_16",
+  "item2_link": "http://www.*[subscriber_attribute_host]*/order?dsc_code=research20&utm_source=expertsender&utm_medium=email&utm_campaign=grandsale_16",
+  "item3_link": "http://www.*[subscriber_attribute_host]*/order?dsc_code=essay20&utm_source=expertsender&utm_medium=email&utm_campaign=grandsale_16",
+  "item4_link": "http://www.*[subscriber_attribute_host]*/order?dsc_code=assignment20&utm_source=expertsender&utm_medium=email&utm_campaign=grandsale_16",
+  "item5_link": "http://www.*[subscriber_attribute_host]*/order?dsc_code=article20&utm_source=expertsender&utm_medium=email&utm_campaign=grandsale_16",
+  "item6_link": "http://www.*[subscriber_attribute_host]*/order?dsc_code=powerpoint20&utm_source=expertsender&utm_medium=email&utm_campaign=grandsale_16",
+
+  "item1_img" : "http://essay-storage.com/images/e-commerce-ab-2016/item1_img.png",
+  "item2_img" : "http://essay-storage.com/images/e-commerce-ab-2016/item2_img.png",
+  "item3_img" : "http://essay-storage.com/images/e-commerce-ab-2016/item3_img.png",
+  "item4_img" : "http://essay-storage.com/images/e-commerce-ab-2016/item4_img.png",
+  "item5_img" : "http://essay-storage.com/images/e-commerce-ab-2016/item5_img.png",
+  "item6_img" : "http://essay-storage.com/images/e-commerce-ab-2016/item6_img.png",
+
+  "item1_title" : "Dissertation",
+  "item2_title" : "Research Paper",
+  "item3_title" : "Essay",
+  "item4_title" : "Assignment",
+  "item5_title" : "Article",
+  "item6_title" : "Powerpoint",
+
+  "item1_subtitle" : "Get high-quality dissertations at an affordable price!",
+  "item2_subtitle" : "Order solid research papers at the best cost!",
+  "item3_subtitle" : "Buy well-written essays at a low price!",
+  "item4_subtitle" : "Get professional assignments at amazing prices!",
+  "item5_subtitle" : "Purchase top-shelf articles at a super low price!",
+  "item6_subtitle" : "Order impressive presentation with a discount!",
+
+  "item1_code" : "dissertation20",
+  "item2_code" : "research20",
+  "item3_code" : "essay20",
+  "item4_code" : "assignment20",
+  "item5_code" : "article20",
+  "item6_code" : "powerpoint20",
+
+  "item_img_bg" : "http://essay-storage.com/images/e-commerce-ab-2016/item_photo_bg.png",
+
+  "discount_20" : "http://essay-storage.com/images/e-commerce-ab-2016/discount_20.png",
+
+  "page_title" : "*EMAIL*",
+  "customer_name" : "*[subscriber_firstname]*",
+  "campaign_title": "*[subscriber_attribute_host]*",
+  "campaign_url": "support@*[subscriber_attribute_host]*",
+  "unsubscribe": "*[link_unsubscribe]*",
+  "tos": "http://www.*[subscriber_attribute_host]*/tos.php",
+  "refferal": "http://*[subscriber_attribute_host]*/order?ref=*[subscriber_attribute_hex]*",
+  "order_date": "{date the order was created}"
+}
